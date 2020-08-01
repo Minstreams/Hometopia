@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: 48e93a0d1a5d3d54c831e4cde474a04d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Nasu (Muti Frame)_Frame_0_8bit_45
+  - first:
+      213: 21300002
+    second: Nasu (Muti Frame)_Frame_0_8bit_135
+  - first:
+      213: 21300004
+    second: Nasu (Muti Frame)_Frame_0_8bit_225
+  - first:
+      213: 21300006
+    second: Nasu (Muti Frame)_Frame_0_8bit_315
+  - first:
+      213: 21300008
+    second: Nasu (Muti Frame)_Frame_0_8bit_0
+  - first:
+      213: 21300010
+    second: Nasu (Muti Frame)_Frame_0_8bit_90
+  - first:
+      213: 21300012
+    second: Nasu (Muti Frame)_Frame_0_8bit_180
+  - first:
+      213: 21300014
+    second: Nasu (Muti Frame)_Frame_0_8bit_270
+  - first:
+      213: 21300016
+    second: Nasu (Muti Frame)_Frame_0_8bit_23
+  - first:
+      213: 21300018
+    second: Nasu (Muti Frame)_Frame_0_8bit_113
+  - first:
+      213: 21300020
+    second: Nasu (Muti Frame)_Frame_0_8bit_203
+  - first:
+      213: 21300022
+    second: Nasu (Muti Frame)_Frame_0_8bit_293
+  - first:
+      213: 21300024
+    second: Nasu (Muti Frame)_Frame_0_8bit_68
+  - first:
+      213: 21300026
+    second: Nasu (Muti Frame)_Frame_0_8bit_158
+  - first:
+      213: 21300028
+    second: Nasu (Muti Frame)_Frame_0_8bit_248
+  - first:
+      213: 21300030
+    second: Nasu (Muti Frame)_Frame_0_8bit_338
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nasu (Muti Frame)_Frame_0_8bit_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.46428573, y: 0.11510064}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nasu (Muti Frame)_Frame_0_8bit_135
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.39285722, y: 0.04531318}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nasu (Muti Frame)_Frame_0_8bit_225
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5357142, y: 0.02276766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nasu (Muti Frame)_Frame_0_8bit_315
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.6071428, y: 0.07124254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nasu (Muti Frame)_Frame_0_8bit_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 23
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5494506, y: 0.1119097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nasu (Muti Frame)_Frame_0_8bit_90
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 23
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.4487167, y: 0.0947912}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nasu (Muti Frame)_Frame_0_8bit_180
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 23
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.45054945, y: 0.030672634}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nasu (Muti Frame)_Frame_0_8bit_270
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 23
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.55128336, y: 0.06273242}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nasu (Muti Frame)_Frame_0_8bit_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 45
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5079991, y: 0.1057512}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nasu (Muti Frame)_Frame_0_8bit_113
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 45
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.41742313, y: 0.061699696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nasu (Muti Frame)_Frame_0_8bit_203
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 45
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.49200088, y: 0.037463527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nasu (Muti Frame)_Frame_0_8bit_293
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 45
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5762248, y: 0.06810023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nasu (Muti Frame)_Frame_0_8bit_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 67
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.4548372, y: 0.098026074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nasu (Muti Frame)_Frame_0_8bit_158
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 67
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.4147542, y: 0.049245816}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nasu (Muti Frame)_Frame_0_8bit_248
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 67
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5451628, y: 0.05412619}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nasu (Muti Frame)_Frame_0_8bit_338
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 67
+        width: 13
+        height: 21
+      alignment: 9
+      pivot: {x: 0.58524567, y: 0.093039356}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

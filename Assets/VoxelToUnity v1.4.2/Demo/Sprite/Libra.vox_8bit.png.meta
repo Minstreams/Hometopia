@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: 04585cff9a1a3bc4b8e3232163bcbea9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Libra.vox_8bit_45
+  - first:
+      213: 21300002
+    second: Libra.vox_8bit_135
+  - first:
+      213: 21300004
+    second: Libra.vox_8bit_225
+  - first:
+      213: 21300006
+    second: Libra.vox_8bit_315
+  - first:
+      213: 21300008
+    second: Libra.vox_8bit_0
+  - first:
+      213: 21300010
+    second: Libra.vox_8bit_90
+  - first:
+      213: 21300012
+    second: Libra.vox_8bit_180
+  - first:
+      213: 21300014
+    second: Libra.vox_8bit_270
+  - first:
+      213: 21300016
+    second: Libra.vox_8bit_23
+  - first:
+      213: 21300018
+    second: Libra.vox_8bit_113
+  - first:
+      213: 21300020
+    second: Libra.vox_8bit_203
+  - first:
+      213: 21300022
+    second: Libra.vox_8bit_293
+  - first:
+      213: 21300024
+    second: Libra.vox_8bit_68
+  - first:
+      213: 21300026
+    second: Libra.vox_8bit_158
+  - first:
+      213: 21300028
+    second: Libra.vox_8bit_248
+  - first:
+      213: 21300030
+    second: Libra.vox_8bit_338
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Libra.vox_8bit_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 27
+        height: 50
+      alignment: 9
+      pivot: {x: 0.42222223, y: 0.14394966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Libra.vox_8bit_135
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1
+        width: 27
+        height: 50
+      alignment: 9
+      pivot: {x: 0.47037038, y: 0.09181034}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Libra.vox_8bit_225
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1
+        width: 27
+        height: 50
+      alignment: 9
+      pivot: {x: 0.57777774, y: 0.083176956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Libra.vox_8bit_315
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1
+        width: 27
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5296296, y: 0.11251443}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Libra.vox_8bit_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 52
+        width: 27
+        height: 50
+      alignment: 9
+      pivot: {x: 0.52012885, y: 0.11564358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Libra.vox_8bit_90
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 52
+        width: 27
+        height: 50
+      alignment: 9
+      pivot: {x: 0.47685575, y: 0.12490348}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Libra.vox_8bit_180
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 52
+        width: 27
+        height: 50
+      alignment: 9
+      pivot: {x: 0.47987118, y: 0.0708527}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Libra.vox_8bit_270
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 52
+        width: 27
+        height: 50
+      alignment: 9
+      pivot: {x: 0.52314425, y: 0.08830542}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Libra.vox_8bit_23
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 103
+        width: 27
+        height: 50
+      alignment: 9
+      pivot: {x: 0.47114244, y: 0.13400036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Libra.vox_8bit_113
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 103
+        width: 27
+        height: 50
+      alignment: 9
+      pivot: {x: 0.48374012, y: 0.11554121}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Libra.vox_8bit_203
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 103
+        width: 27
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5288576, y: 0.079790175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Libra.vox_8bit_293
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 103
+        width: 27
+        height: 50
+      alignment: 9
+      pivot: {x: 0.51707286, y: 0.097314045}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Libra.vox_8bit_68
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 154
+        width: 27
+        height: 50
+      alignment: 9
+      pivot: {x: 0.40280473, y: 0.14362438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Libra.vox_8bit_158
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 154
+        width: 27
+        height: 50
+      alignment: 9
+      pivot: {x: 0.47269806, y: 0.07825217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Libra.vox_8bit_248
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 154
+        width: 27
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5914779, y: 0.0866014}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Libra.vox_8bit_338
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 154
+        width: 27
+        height: 50
+      alignment: 9
+      pivot: {x: 0.52730197, y: 0.11018382}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
