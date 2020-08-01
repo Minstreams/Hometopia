@@ -66,6 +66,17 @@ public class CamMoveTemp : MonoBehaviour
             lastCamSize = cam.orthographicSize;
         }
     }
+
+    public void DragScreen(Vector2 drag)
+    {
+        drag.y *= sqrt2;
+        float rotY = transform.localRotation.eulerAngles.y;
+        float sinY = Mathf.Sin(rotY);
+        float cosY = Mathf.Cos(rotY);
+        Vector3 dir = new Vector3(-drag.x * cosY + drag.y * sinY, 0, -drag.y * cosY - drag.x * sinY) * cam.orthographicSize * 2 / Screen.currentResolution.height;
+        transform.Translate(dir);
+    }
+
 #if UNITY_EDITOR
     private void OnGUI()
     {

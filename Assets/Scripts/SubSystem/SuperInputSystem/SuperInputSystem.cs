@@ -1,8 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEngine;
 using GameSystem.Setting;
 using UnityEngine.InputSystem;
+using UnityEngine.InputSystem.EnhancedTouch;
 
 namespace GameSystem
 {
@@ -12,10 +12,7 @@ namespace GameSystem
     /// </summary>
     public class SuperInputSystem : SubSystem<SuperInputSystemSetting>
     {
-        //Your code here
-
-
-        [RuntimeInitializeOnLoadMethod]
+        [UnityEngine.RuntimeInitializeOnLoadMethod]
         private static void RuntimeInit()
         {
             //用于控制Action初始化
@@ -41,7 +38,7 @@ namespace GameSystem
         }
 
         //输入行为委托--------------------------
-        public static event System.Action<Vector2> drag;
+        public static event System.Action<UnityEngine.Vector2> drag;
 
 
         //状态机----------------------------
@@ -49,9 +46,10 @@ namespace GameSystem
         {
             while (true)
             {
+                //
                 if (Mouse.current.leftButton.isPressed)
                 {
-                    drag?.Invoke(Mouse.current.position.ReadValue());
+                    drag?.Invoke(Mouse.current.delta.ReadValue());
                 }
                 yield return 0;
             }
